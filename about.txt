@@ -1,11 +1,13 @@
 # Who am I : Gemma Milman
 
     * Where are you from? the UK
+    * WHERE EXACTLY ARE YOU FROM : PLANET EARTH
     * What do you do? I am studying coding
     * Do you have previous experience with technology/data? - a little bit, who doesn't int this day and age
 
-    # Why am I here: to have fun with data
-
+    # Why am I here: to have so fun with data
+	BU
+	BUT WHAT ABOUT MY HOBBIES
     * What has brought you to Ironhack? a career change is needed
     * What knowledge/skills do you expect to learn in this bootcamp? lots of things, esepcially debugging
 
