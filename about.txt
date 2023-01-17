@@ -1,4 +1,16 @@
-fun fact : I can knit and crochet
-dfdfdhgdg
-xsjksjckdjckdc
-ksjksjckjcjkdjc
+# Who am I : Gemma Milman
+
+    * Where are you from? the UK
+    * What do you do? I am studying coding
+    * Do you have previous experience with technology/data? - a little bit, who doesn't int this day and age
+
+    # Why am I here: to have fun with data
+
+    * What has brought you to Ironhack? a career change is needed
+    * What knowledge/skills do you expect to learn in this bootcamp? lots of things, esepcially debugging
+
+    # What will I do after the bootcamp? Get a job
+
+    * Which industry will you seek employment in? Health
+    * What will your future role look like? cool and flex
+    * What is your career goal? DM
